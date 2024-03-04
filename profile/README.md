@@ -8,5 +8,5 @@
 > [!NOTE]
 > У нас есть Discord сервер: https://discord.gg/PHJZYYawVV
 <a href="https://discord.gg/PHJZYYawVV">
-	<img src="https://github.com/LuminiaBedrock/.github/blob/main/assets/discord.png" alt="Discord" title="Discord" loading="eager" width="50%" height="50%"/>
+	<img src="https://github.com/LuminiaBedrock/.github/blob/main/assets/discord.png" alt="Discord" title="Discord" loading="eager" width="45%" height="40%"/>
 </a>
